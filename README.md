@@ -19,3 +19,8 @@ DEPENDÊNCIAS BACKEND:
 - "styled-components": "^6.1.15"
 
 DEPENDÊNCIAS FRONTEND:
+
+- "react": "^19.0.0",
+- "react-dom": "^19.0.0",
+- "react-router-dom": "^7.2.0",
+- "styled-components": "^6.1.15"
