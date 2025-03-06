@@ -11,6 +11,11 @@ REQUISITOS NÃO-FUNCIONAIS:
 
 DEPENDÊNCIAS BACKEND:
 
-- 
+- "cors": "^2.8.5",
+- "express": "^4.21.2",
+- "mysql2": "^3.12.0",
+- "nodemon": "^3.1.9",
+- "sequelize": "^6.37.5",
+- "styled-components": "^6.1.15"
 
 DEPENDÊNCIAS FRONTEND:
